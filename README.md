@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Eren</h1>
+<h1 align="center">Hello 👋, I'm Eren</h1>
 <h3 align="center">Student From 42 Kocaeli</h3>
 
 - 🌱 I’m currently learning **C, C++ and Unix**
