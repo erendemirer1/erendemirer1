@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Eren</h1>
 <h3 align="center">Student from 42 Kocaeli</h3>
 
-- 🌱 I’m currently learning **C, C++, Python(for Backend Development) and Unix)**
+- 🌱 I’m currently learning **C, C++, Python(for Backend Development) and Unix**
 
 - 📫 How to reach me **erendemirer21@gmail.com**
 
