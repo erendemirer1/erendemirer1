@@ -1,8 +1,6 @@
 <h1 align="center">Hello, I'm Eren</h1>
 <h3 align="center">Student from 42 Kocaeli</h3>
 
-- 🌱 I’m currently learning **C, C++, Python(Django, Flask)**
-
 - 📫 How to reach me **erendemirer21@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
