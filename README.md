@@ -3,7 +3,7 @@
 
 - I’m currently working on **42 Advanced DevOps and CyberSecurity Projects**
 
-- 🌱 I’m currently learning **DevOps and DevSecOps**
+- 🌱 I’m currently learning **DevOps**
 
 - 📫 How to reach me **erendemirer21@gmail.com**
 
