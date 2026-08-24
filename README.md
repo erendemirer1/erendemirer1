@@ -1,29 +1,33 @@
 # Eren Demirer
 
 **Backend & DevOps Engineer** | Istanbul, TR  
-Focusing on low-level systems, Linux internals, and cloud-native infrastructure automation.
+Designing resilient backend architectures, automated cloud infrastructure, and distributed systems.
 
 [LinkedIn](https://linkedin.com/in/erendemirer1) • [Email](mailto:erendemirer21@gmail.com)
 
 ---
 
-### What I Do
+### About Me
 
-I build reproducible infrastructure and backend systems. My background comes from **42 School**, where I spent extensive time working with C/Unix, raw sockets, memory management, and process lifecycles before moving up the stack into container orchestration and GitOps.
+I design scalable backend services and automated cloud infrastructure with a core foundation in Unix internals, systems programming, and container orchestration. 
 
-* **Systems & Low-Level:** Unix internals, POSIX compliance, multi-threading, TCP/UDP sockets, kernel compilation, signal handling.
-* **DevOps & Cloud-Native:** Kubernetes (K3s/K8s), ArgoCD, Docker, Terraform, CI/CD pipelines (GitHub Actions), Nginx, Linux server hardening.
-* **Backend:** Go, Python, REST APIs, Microservices architecture.
+My engineering background combines low-level systems programming—handling memory, POSIX interfaces, and network sockets—with modern cloud-native practices, allowing me to build reliable architectures and debug complex infrastructure beneath the orchestration layer.
 
 ---
 
+### Technical Focus & Architecture Domains
 
-### Tech Stack & Tooling
+* **Cloud Infrastructure & Orchestration:** Kubernetes (K8s, K3s, K3d), Container Runtime Internals (Docker, Containerd), Infrastructure as Code (Terraform), Cloud Infrastructure Administration & Provisioning.
+* **CI/CD & GitOps Automation:**GitHub Actions, GitLab CI, Declarative GitOps (ArgoCD), Release Pipelines, Multi-Environment Deployment Strategies.
+* **Backend & Distributed Systems:** Microservices Architecture, RESTful APIs, High-Concurrency Socket Servers, Asynchronous Task Processing, Go, Python, C/C++, Bash.
+* **Networking & System Internals:** TCP/IP Protocol Suite, Socket Programming, Ingress/Egress Traffic Routing, Reverse Proxies (Nginx), Linux Kernel Fundamentals, Process Lifecycle Management, IPC.
+* **Infrastructure Security & DevSecOps:** Server Hardening, Application & Host Security Auditing, Vulnerability Assessment, Network Traffic Analysis, TLS/SSL Implementation, Secure Secrets Management.
+* **Observability & Reliability:** System & Container Monitoring (Prometheus, Grafana), Distributed Log Management (Loki), Health Probes, Metrics Collection & Alerting.
 
-```text
-Languages     : C, C++, Go, Python, Bash / Shell
-Infrastructure: Docker, Kubernetes, K3s, Terraform, Vagrant, Nginx
-CI/CD & GitOps: GitHub Actions, ArgoCD
-Networking    : TCP/IP Stack, Raw Sockets, DNS, HTTP/S, Wireguard
-Monitoring    : Prometheus, Grafana, ELK / Loki Basics
-OS & Tools    : Linux (Debian, Alpine, Arch), Git, Make, GDB, Valgrind
+---
+
+### Contact
+
+Open to backend, infrastructure, and platform engineering opportunities:
+* LinkedIn: [erendemirer1](https://linkedin.com/in/erendemirer1)
+* Email: `erendemirer21@gmail.com`
