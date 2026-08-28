@@ -30,4 +30,4 @@ My engineering background combines low-level systems programming—handling memo
 
 Open to backend, infrastructure, and DevOps engineering opportunities:
 * LinkedIn: [erendemirer1](https://linkedin.com/in/erendemirer1)
-* Email: `mailto:erendemirer21@gmail.com`
+* Email: `[erendemirer21@gmail.com](mailto:erendemirer21@gmail.com)`
