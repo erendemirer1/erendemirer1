@@ -18,7 +18,7 @@ My engineering background combines low-level systems programming—handling memo
 ### Technical Focus & Architecture Domains
 
 * **Cloud Infrastructure & Orchestration:** Kubernetes (K8s, K3s, K3d), Container Runtime Internals (Docker, Containerd), Infrastructure as Code (Terraform), Helm, Cloud Infrastructure Administration & Provisioning.
-* **CI/CD & GitOps Automation:**GitHub Actions, GitLab CI, Declarative GitOps (ArgoCD), Release Pipelines, Multi-Environment Deployment Strategies.
+* **CI/CD & GitOps Automation:** GitHub Actions, GitLab CI, Declarative GitOps (ArgoCD), Release Pipelines, Multi-Environment Deployment Strategies.
 * **Backend & Distributed Systems:** Microservices Architecture, RESTful APIs, High-Concurrency Socket Servers, Asynchronous Task Processing, Go, Python, C/C++, Bash.
 * **Networking & System Internals:** TCP/IP Protocol Suite, Socket Programming, Ingress/Egress Traffic Routing, Reverse Proxies (Nginx), Linux Kernel Fundamentals, Process Lifecycle Management, IPC.
 * **Infrastructure Security & DevSecOps:** Server Hardening, Application & Host Security Auditing, Vulnerability Assessment, Network Traffic Analysis, TLS/SSL Implementation, Secure Secrets Management.
